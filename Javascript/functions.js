@@ -19,3 +19,8 @@ try{
 } catch (e) {
     console.log(e.message);
 }
+
+
+str = "aakashrana";
+str1= str.reverse()
+console.log(str1)
